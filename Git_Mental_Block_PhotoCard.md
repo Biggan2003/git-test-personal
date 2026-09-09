@@ -21,3 +21,7 @@ A quick visual revision of Git’s internal architecture: `.git/`, Git Objects, 
 ![alt text](<git internal architecture.png>)
 
 
+# From Basic to Professonal Workflow with command
+
+![alt text](<key basic term and command.png>)
+
